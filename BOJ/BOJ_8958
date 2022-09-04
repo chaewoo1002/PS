@@ -10,4 +10,4 @@ for i in range(0, n): # 입력 받은 횟수만큼 반복
             point += 1 # 연속으로 'O'가 입력되었을때의 점수 계산을 위해 point의 값을 1 더해줌
         else:
             point = 1 # 'X'가 입력되었다면 현재 point의 저장된 값을 1로 초기화 시키고 다시 반복문으로
-    print(score)
+    print(score) 
