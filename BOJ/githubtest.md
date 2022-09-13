@@ -1,1 +1,0 @@
-### 깃허브 ssh passphrase 설정 확인
