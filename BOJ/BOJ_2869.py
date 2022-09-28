@@ -1,4 +1,4 @@
-import math # math.ceil()을 사용하기 위해 import
+import math # math.ceil()을 사용하기 위해 모듈 import
 
 a, b, v = map(int,input().split())  # 공백을 기준으로 3개 map()으로 나눠 입력
 date = math.ceil((v-b) / (a-b)) # 문제의 조건을 코드로 구현하면 (v-b) / (a-b)가 된다. 여기서 /(나누기) 연산자를 사용하게 되면
