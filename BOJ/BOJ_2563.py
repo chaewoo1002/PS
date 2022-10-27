@@ -6,7 +6,7 @@ for _ in range(n):
 
     for i in range(a, a+10) : # 가로 크기 10
         for j in range(b, b+10) : # 세로 크기 10
-            arr[i][j] = 1 # 
+            arr[i][j] = 1
 
 count = 0 
 for row in arr :
