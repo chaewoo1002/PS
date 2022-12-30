@@ -1,0 +1,1 @@
+print(input().upper()) # 입력 문자열을 대문자로 변환
